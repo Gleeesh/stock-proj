@@ -5,7 +5,7 @@
       "name": "Python: Train Pipeline",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}/src/pipelines/train_pipeline.py",
+      "program": "${stock proj}/src/pipelines/train_pipeline.py",
       "args": ["--config", "config/xgboost_config.yaml"]
     }
   ]
